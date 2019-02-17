@@ -1,6 +1,8 @@
 Ruby setup for TCR Style coding Katas
 =====================================
 
+[![Build Status](https://travis-ci.org/nicopaez/tcr-ruby-template.svg?branch=master)](https://travis-ci.org/nicopaez/tcr-ruby-template)
+
 It is based on Guard, Rake and Rspec. Just clone this repo and then.
 
 * Install dependencies: bundle install
